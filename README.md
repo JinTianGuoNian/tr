@@ -1,7 +1,8 @@
 # tr - Text Recognition 
 
 ## 版本升级中提示
-```新版本接口将不兼容之前的版本<br>
+```
+新版本接口将不兼容之前的版本
 请访问 https://github.com/myhub/tr/tree/tr2 获取之前版本的相关信息
 ```
 
