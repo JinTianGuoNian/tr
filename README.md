@@ -1,8 +1,9 @@
 # tr - Text Recognition 
 
 ## 版本升级中提示
-新版本接口将不兼容之前的版本<br>
+```新版本接口将不兼容之前的版本<br>
 请访问 https://github.com/myhub/tr/tree/tr2 获取之前版本的相关信息
+```
 
 一款针对扫描文档的离线文本识别SDK，核心代码全部采用C++开发，并提供Python接口
 
